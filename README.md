@@ -4,7 +4,6 @@
 # IN SHORT </br>
 # in profiles -> WebApplication1 set "applicationUrl": "http://localhost:57570", instead of "applicationUrl": "https://localhost:5001;http://localhost:5000",</br>
 </br>
-// DISABLED SSL, DEBUGGING WORKING</br>
 {</br>
   "iisSettings": {</br>
     "windowsAuthentication": false,</br>
