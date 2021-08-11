@@ -1,6 +1,5 @@
 # GO TO </br>
-# launchSettings.json</br>
-# and edit</br>
+# launchSettings.json and edit</br>
 # make sure you got proper application name in my case WebApplication1 </br>
 # IN SHORT </br>
 # in profiles -> WebApplication1 set "applicationUrl": "http://localhost:57570", instead of "applicationUrl": "https://localhost:5001;http://localhost:5000",</br>
