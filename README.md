@@ -29,7 +29,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"</br>
       },</br>
       "dotnetRunMessages": "true",</br>
-      "applicationUrl": "http://localhost:57570", // DISABLED SSL, DEBUGGING WORKING</br></br>
+      "applicationUrl": "http://localhost:57570", // DISABLED SSL, DEBUGGING WORKING</br>
       //"applicationUrl": "https://localhost:5001;http://localhost:5000", // ENABLE SSL, DEBUGGING NOT WORKING!!!</br>
       "inspectUri": "{wsProtocol}://{url.hostname}:{url.port}/_framework/debug/ws-proxy?browser={browserInspectUri}"</br>
     }</br>
